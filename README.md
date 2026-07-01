@@ -2,7 +2,7 @@
 
 1st repository, datasets I've used
 
-#Not very feasible: MHC fake version, political tweets from spring of junior year, tuberculosis schotastic regression #in china
+#Not very feasible: MHCeco, political tweets from spring of junior year, tuberculosis schotastic regression in china
 
 uneasily complete
 - Library dataset that Sarah worked on was interesting
@@ -17,5 +17,5 @@ easily complete
 - Spelling Bee Word Count
 
 Complete
-- Chickens for Northern Climates, wines quality, hotel booking, ocean proximity
+- Chickens for Northern Climates, wines quality, hotel booking
 
