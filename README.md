@@ -17,8 +17,5 @@ easily complete
 - Spelling Bee Word Count
 
 Complete
-- Chickens for Northern Climates
-- wines one
-- iris (painful)
-- hotel booking, ocean proximity
+- Chickens for Northern Climates, wines quality, hotel booking, ocean proximity
 
