@@ -17,5 +17,5 @@ easily complete
 - Spelling Bee Word Count
 
 Complete
-- Chickens for Northern Climates, wines quality, hotel booking
+- Chickens for Northern Climates, wine quality
 
