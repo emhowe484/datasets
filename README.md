@@ -18,4 +18,5 @@ easily complete
 
 Complete
 - Chickens for Northern Climates, wine quality
+- Ocean Proximity is used with California Housing from Sklearn Python.
 
