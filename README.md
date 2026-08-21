@@ -8,11 +8,8 @@ Complete
 
 #used but lost: political tweets from spring of junior year, tuberculosis schotastic regression in china
 
-WIP
-- musical discography
-- Something on taylor swift
-
-uneasily complete
+WIP: Something on taylor swift
+maybe, someday, at some point
 - Search of British aristocracy
 - Forbes Billionaires
 - 311 Dataset
